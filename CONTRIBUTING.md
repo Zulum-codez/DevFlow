@@ -85,7 +85,7 @@ Closes #456
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/zulum-codez/yourproject.git
 cd yourproject
 
 # Install dependencies
