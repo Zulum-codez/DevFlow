@@ -90,7 +90,7 @@ devflow/
 
 ### Step 1: Clone Your Repository
 ```bash
-git clone https://github.com/yourusername/devflow.git
+git clone https://github.com/zulum-codez/devflow.git
 cd devflow
 ```
 
