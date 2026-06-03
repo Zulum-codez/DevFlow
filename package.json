@@ -22,16 +22,16 @@
     "developer-tools",
     "sprint-management"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Ijezie Chukwuzulum <ijeziechukwuzulum@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/devflow.git"
+    "url": "https://github.com/zulum-codez/devflow.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/devflow/issues"
+    "url": "https://github.com/zulum-codez/devflow/issues"
   },
-  "homepage": "https://github.com/yourusername/devflow#readme",
+  "homepage": "https://github.com/zulum-codez/devflow#readme",
   "engines": {
     "node": ">=14.0.0",
     "npm": ">=6.0.0"
