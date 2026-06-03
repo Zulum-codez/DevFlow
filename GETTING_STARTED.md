@@ -13,7 +13,7 @@ Welcome to the project! This guide will help you get up and running.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/zulum-codez/yourproject.git
 cd yourproject
 ```
 
